@@ -1,6 +1,3 @@
-Certainly! Here's a simple GitHub README file for the code you provided, which solves the 6th problem from Project Euler:
-
-```markdown
 # Project Euler Problem 6: Sum Square Difference
 
 This repository contains a C++ program to solve [Problem 6](https://projecteuler.net/problem=6) from Project Euler.
@@ -36,13 +33,3 @@ To run the program, follow these steps:
 
 - `main.cpp`: Contains the C++ code to solve the problem.
 - `README.md`: This file, providing an overview of the problem and the solution.
-
-## License
-
-This code is provided under the [MIT License](LICENSE).
-
-Feel free to explore the code and modify it as needed for your own use or learning.
-
-```
-
-Please replace `"filename.cpp"` and `"outputname"` with the actual filenames you use for your code and compiled executable. Also, ensure you have a `LICENSE` file in your repository if you want to specify a license.
